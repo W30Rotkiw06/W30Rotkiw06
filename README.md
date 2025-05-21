@@ -2,8 +2,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w30rotkiw06" alt="w30rotkiw06" /></a> </p>
 
 - 🔭 I’m currently working on [Swear-jar](https://github.com/W30Rotkiw06/swear-jar)
+- 🎓 Freshly graduated Saint Mary Magdalene High School in Poznań (2025)
 
-- 📫 How to reach me **wiktor.w306@gmail.com**
+- 📫 How to reach me **wiktor_wieczorek@onet.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
