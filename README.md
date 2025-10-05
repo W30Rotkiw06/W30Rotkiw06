@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiktor</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w30rotkiw06" alt="w30rotkiw06" /></a> </p>
-
+<h1 align="left">Hi I'm Wiktor</h1>
 - 🔭 I’m currently working as a part-time frontend developer
 - 📚 Freshly graduated Saint Mary Magdalene High School in Poznań (2021-2025) (graduated with honours)
 - 🎓 Currenty studying at Warsaw Unversity of Technology. I am majoring in Aerospace Engineering (Bachelor of engineering) (2025-)
